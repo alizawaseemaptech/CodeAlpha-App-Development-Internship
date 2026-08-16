@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "CodeAlpha-Random-Quote-Generator",
+    "slug": "codealpha-random-quote-generator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2563EB"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#2563EB"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
